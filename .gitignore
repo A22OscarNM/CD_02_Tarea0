@@ -1,1 +1,6 @@
 system.log
+*.log
+?.log
+#Ignoramos carpetas añadiendo /
+carpeta/
+
